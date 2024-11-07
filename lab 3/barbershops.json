@@ -1,0 +1,63 @@
+
+{
+    "user": {
+      "name": "Joe Samanta",
+      "location": "Yogyakarta",
+      "profileImage": "assets/images/profile.jpg"
+    },
+    "banner": {
+      "imagePath": "assets/images/banner.jpg"
+    },
+    "nearestBarbershops": [
+      {
+        "title": "Alana Barbershop - Haircut & Massage",
+        "location": "Banguntapan (5 km)",
+        "rating": 4.5,
+        "imagePath": "assets/images/barbershop1.jpg"
+      },
+      {
+        "title": "Hercha Barbershop - Haircut & Styling",
+        "location": "Jalan Kaliurang (8 km)",
+        "rating": 5.0,
+        "imagePath": "assets/images/barbershop2.jpg"
+      },
+      {
+        "title": "Barberking - Haircut Styling & Massage",
+        "location": "Jogja Expo Centre (12 km)",
+        "rating": 4.5,
+        "imagePath": "assets/images/barbershop3.jpg"
+      }
+    ],
+    "mostRecommended": {
+      "title": "Masterpiece Barbershop",
+      "location": "Siswo Centre (1 km)",
+      "rating": 5.0,
+      "imagePath": "assets/images/new_banner.jpg"
+    },
+    "allBarbershops": [
+      {
+        "title": "Masterpiece Barbershop - Haircut Styling",
+        "location": "Jogja Expo Centre (2 km)",
+        "rating": 5.0,
+        "imagePath": "assets/images/barbershop4.jpg"
+      },
+      {
+        "title": "Varcity Barbershop Jogja ex The Varcher",
+        "location": "Condongcatur (10 km)",
+        "rating": 4.5,
+        "imagePath": "assets/images/barbershop5.jpg"
+      },
+      {
+        "title": "Twinsky Monkey Barber & Men Stuff",
+        "location": "Jl Taman Siswa (8 km)",
+        "rating": 5.0,
+        "imagePath": "assets/images/barbershop6.jpg"
+      },
+      {
+        "title": "Barberman - Haircut Styling & Massage",
+        "location": "J-Walk Centre (17 km)",
+        "rating": 4.5,
+        "imagePath": "assets/images/barbershop7.jpg"
+      }
+    ]
+  }
