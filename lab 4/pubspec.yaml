@@ -1,0 +1,42 @@
+name: my_flutter_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.5
+  
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+
+include: package:flutter_lints/flutter.yaml
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/profile.jpg
+    - assets/images/banner.jpg
+    - assets/images/barbershop1.jpg
+    - assets/images/barbershop2.jpg
+    - assets/images/barbershop3.jpg
+    - assets/images/new_banner.jpg
+    - assets/images/barbershop4.jpg
+    - assets/images/barbershop5.jpg
+    - assets/images/barbershop6.jpg
+    - assets/images/barbershop7.jpg
+    - assets/images/barbershop8.jpg
+    - assets/images/barbershop9.jpg
+    - assets/images/barbershop10.jpg
+    - assets/images/barbershop11.jpg
+    - assets/barbershops.json
